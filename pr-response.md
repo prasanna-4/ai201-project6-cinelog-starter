@@ -333,3 +333,4 @@ feat: add watchlist model, service, and endpoints
 omitted here since they change on any history edit — see the screenshot.)
 
 > Screenshot: paste an image of `git log --oneline` here for submission.
+![alt text](image.png)
